@@ -1,0 +1,9 @@
+repos:
+  - repo: https://github.com/pre-commit/mirrors-flake8
+    rev: v4.0.1
+    hooks:
+      - id: flake8
+  - repo: https://github.com/pre-commit/mirrors-pylint
+    rev: v2.15.0
+    hooks:
+      - id: pylint

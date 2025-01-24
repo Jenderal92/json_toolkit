@@ -1,0 +1,5 @@
+[MASTER]
+disable=missing-docstring, invalid-name
+
+[REPORTS]
+output-format=text
