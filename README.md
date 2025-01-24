@@ -1,5 +1,3 @@
-### **`README.md`**
-
 # JSON Toolkit
 
 A versatile Python toolkit for working with JSON data. It includes features for streaming large JSON files, filtering and transforming data, converting to different formats, exporting data, and performing advanced JSON analysis.
