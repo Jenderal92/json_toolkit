@@ -94,7 +94,7 @@ To set up the development environment:
 
 We welcome contributions to this project. If you'd like to contribute, please fork the repository, create a new branch, and submit a pull request. Make sure to follow the code style guidelines, write tests, and update the documentation as necessary.
 
-For detailed instructions, please see [CONTRIBUTING.md](CONTRIBUTING.md).
+For detailed instructions, please see [CONTRIBUTING.md](docs/CONTRIBUTING.md).
 
 ## License
 
